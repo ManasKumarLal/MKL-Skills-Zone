@@ -8,7 +8,7 @@ export default function Header() {
     <div className = "bg-[#2699fb] p-4 select-none">
       <div className='max-w-[1760px] py-[12px] mx-auto flex justify-between items-center'>
         <div className='text-3xl font-bold'>
-            WsCube Tech
+            MKL Skills Zone
         </div>
         {
             toggle ?

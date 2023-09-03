@@ -7,7 +7,7 @@ export default function Footer() {
     <div className="h-[610px] md:h-[582px] lg:h-[350px] bg-[#2699FB] ">
       <div className="max-w-[1270px] mx-auto lg:flex  justify-between gap-9 lg:pt-[58px] pt-[70px] px-5">
         <div className="lg:w-[30%]">
-          <h1 className="text-3xl font-bold mb-4">WsCube Tech.</h1>
+          <h1 className="text-3xl font-bold mb-4">MKL Skills Zone</h1>
           <p className="text-white">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti rem consectetur facilis dolor saepe dignissimos harum doloremque perferendis.
           </p>
