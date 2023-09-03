@@ -3,13 +3,13 @@ import { TypeAnimation } from "react-type-animation";
 export default function Banner() {
   return (
     <div className="selection:bg-black selection:text-[red]">
-      <div className="bg-[#2699fb] w-full h-[80vh] pt-[40px] pb-[240px] relative">
+      <div className="bg-[#2699fb] w-full h-[80vh] pt-[120px] pb-[240px] relative">
         <div className="max-w-[1240px] mx-auto text-center font-bold">
           <div className="md:text-3xl text-2xl">Learn with us</div>
           <div className="text-white md:text-[70px] text-[50px] mt-10">
             Grow with us.
           </div>
-          <div className="px-[1%] md:px-[10%] lg:px-[20%] md:text-[50px] text-[40px] text-white md:mt-5">
+          <div className="px-[3%] md:px-[10%] lg:px-[20%] md:text-[50px] text-[30px] text-white md:mt-5">
             Learn{" "}
             <TypeAnimation
               sequence={[
