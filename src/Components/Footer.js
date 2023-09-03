@@ -4,7 +4,7 @@ import { FaGithubSquare } from 'react-icons/fa'
 
 export default function Footer() {
   return (
-    <div className="h-[610px] md:h-[582px] lg:h-[350px] bg-[#2699FB] ">
+    <div className="h-[610px] md:h-[582px] lg:h-[350px] bg-[lightseagreen] ">
       <div className="max-w-[1270px] mx-auto lg:flex  justify-between gap-9 lg:pt-[58px] pt-[70px] px-5">
         <div className="lg:w-[30%]">
           <h1 className="text-3xl font-bold mb-4">MKL Skills Zone</h1>

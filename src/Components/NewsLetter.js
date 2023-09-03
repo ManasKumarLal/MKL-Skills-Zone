@@ -2,7 +2,7 @@ import React from "react";
 
 export default function NewsLetter() {
   return (
-    <div className="w-full bg-[#2699fb] p-4">
+    <div className="w-full bg-[lightseagreen] p-4">
       <div className="max-w-[1240px] mx-auto md:flex justify-between py-[50px]">
         <div className="mx-3">
           <h1 className="text-[20px] md:text-[40px] font-bold text-white">
